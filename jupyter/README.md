@@ -14,7 +14,7 @@
 3. From feasibility to unboundeness
 4. Algorithms for solving Linear Programs
 
-## Network Models ⨌⨌
+## Network Models ⨕
 1. Introduction to Network Models
 2. The Transportation Problem
 3. The Transshipment Problem
@@ -34,4 +34,4 @@
 2. The Importance of Sparsity
 3. Tips for Better Models
 
-(Peter Lugalia)[masaba.peter68@gmail.com]
+[Peter Lugalia](masaba.peter68@gmail.com)
